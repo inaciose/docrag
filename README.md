@@ -1,6 +1,6 @@
 # docrag
 
-DocRAG
+#docRAG
 =======
 
 A local-first document ingestion and RAG pipeline for:
